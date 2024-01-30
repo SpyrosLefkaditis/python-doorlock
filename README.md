@@ -1,1 +1,3 @@
-# erggsia34
+#Python lcoking system 
+This GitHub repository features a Python-based locking system for Raspberry Pi, utilizing a servo motor. The lock_system.py script, originally designed for the Raspberry Pi with RPi.GPIO, has been adapted for simulation on Wokwi using Arduino components. The simulation can be accessed and tested using Wokwi's online simulator, providing a virtual environment to observe the simulated locking and unlocking actions of the servo motor. This serves as a demonstration for users interested in experimenting with the concept before deploying it on physical Raspberry Pi hardware. Link in wokwi to replace the code and run simulation https://wokwi.com/projects/302096915797901833
+
